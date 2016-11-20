@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Image Gallery</title>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="gallery.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+    		<div class="container">
+    			<div class="navbar-header">
+    				 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-nav-demo" aria-expanded="false">
+    	        <span class="sr-only">Toggle navigation</span>
+    	        <span class="icon-bar"></span>
+    	        <span class="icon-bar"></span>
+    	        <span class="icon-bar"></span>
+    	      </button>
+    				<a href="#" class="navbar-brand"><span class="glyphicon glyphicon-picture" aria-hidden="true"></span><a href="#" class="navbar-brand"> IMGS</a>
+    			</div>
+    			<div class="collapse navbar-collapse" id="bs-nav-demo">
+    				<ul class="nav navbar-nav">
+    					<li><a href="#">About</a></li>
+    					<li><a href="#">Contact</a></li>
+    				</ul>
+    				<ul class="nav navbar-nav navbar-right">
+    					<li><a href="#">Sign Up</a></li>
+    					<li><a href="#">Login</a></li>
+    				</ul>
+    			</div>
+    		</div>
+    	</nav>
+
+<div class="container">
+  <div class="jumbotron">
+    <h1><span class="glyphicon glyphicon-camera" aria-hidden="true"></span> The Image Gallery</h1>
+    <p>A bunch of beautiful images</p>
+  </div>
+  <div class="row">
+    <div class="col-lg-4 col-sm-6">
+      <div class="thumbnail">
+      <img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+    </div>
+  </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="thumbnail">
+    <img src="https://images.unsplash.com/photo-1460574283810-2aab119d8511?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ffe83a90bb5ae89e85119121c8d2399a">
+  </div>
+  </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="thumbnail">
+    <img src="https://images.unsplash.com/photo-1416169607655-0c2b3ce2e1cc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=63abc6240e85e1bfd1c45eb84ba717b8">
+  </div>
+  </div>
+  <div class="col-lg-4 col-sm-6">
+    <div class="thumbnail">
+    <img src="https://images.unsplash.com/photo-1431576901776-e539bd916ba2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=a0941b28175909ca62f096eb533b0c97">
+  </div>
+</div>
+<div class="col-lg-4 col-sm-6">
+  <div class="thumbnail">
+  <img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+  <div class="thumbnail">
+  <img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+  <div class="thumbnail">
+  <img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+</div>
+</div>
+<div class="col-lg-4 col-sm-6">
+<div class="thumbnail">
+<img src="https://images.unsplash.com/photo-1453230806017-56d81464b6c5?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ef7efa065a1306618fef80e4294a189c">
+</div>
+</div>
+  </body>
+</html>

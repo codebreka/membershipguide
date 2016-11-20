@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>An Introduction to Mosaik</title>
+  </head>
+  <body>
+    <div class="row">
+      <div class="col-md-4" id="left">
+          <ol>
+            <ul class="starthere"><a href="#starthere">Start here</a></ul>
+            <ul class="starthere"><a href="#using_this_guide">Using this guide</a></ul>
+            <ul class="starthere"><a href="#make_it_better">Make it better yourself</a></ul>
+            <ul class="starthere"><a href="#intro">An Introduction to Mosaik</a></ul>
+            <ul class="starthere"><a href="#manifesto">The Mosaik Manifesto</ul>
+            <ul class="starthere"><a href="#values">Values and guiding principles</a></ul>
+            <ul class="starthere"><a href="#questions">Questions?</a></ul>
+            <ul class="starthere"><a href="#who_are_we">Who are we?</a></ul>
+            <ul class="starthere"><a href="#respecting_mosaik">Respecting Mosaik</a></ul>
+            <ul class="starthere"><a href="#respecting_each_other">Respecting each other</a></ul>
+            <ul class="starthere"><a href="#nitty_gritty">The nitty gritty</a></ul>
+            <ul class="starthere"><a href="#wifi">WIFI/Internet usage</a></ul>
+            <ul class="starthere"><a href="#slack">Slack</a></ul>
+            <ul class="starthere"><a href="#office">Office R&D</a></ul>
+            <ul class="starthere"><a href="#desks">Finding a desk</a></ul>
+            <ul class="starthere"><a href="#quiet_space">Quiet spaces</a></ul>
+            <ul class="starthere"><a href="#food_drink">Food and drink rules</a></ul>
+            <ul class="starthere"><a href="#meeting_rooms">Booking out meeting rooms</a></ul>
+            <ul class="starthere"><a href="#phone_calls">Taking phone calls</a></ul>
+            <ul class="starthere"><a href="#guests">Guests</a></ul>
+            <ul class="starthere"><a href="#event_space">Event space hire</a></ul>
+            <ul class="starthere"><a href="#mail">Mail</a></ul>
+            <ul class="starthere"><a href="#lockers">Lockers/storage</a></ul>
+            <ul class="starthere"><a href="#pets">Pets</a></ul>
+            <ul class="starthere"><a href="#bikes">Bikes</a></ul>
+            <ul class="starthere"><a href="#children">Children & babies</a></ul>
+            <ul class="starthere"><a href="#heating_ac">Heating & A/C</a></ul>
+            <ul class="starthere"><a href="#stocking_up">Stock items</a></ul>
+            <ul class="starthere"><a href="#security">Security</a></ul>
+            <ul class="starthere"><a href="#broken_stuff">Broken stuff</a></ul>
+          </ol>
+            </div>
+      <div class="col-md-8" id="right" id="borderleft">
+          <h1>An Introduction to Mosaik</h1><br><br>
+            <h2>Let’s start with why:</h2>
+            <p>Mosaik is staffed by a team of tech and startup enthusiasts, personal developers, and community organizers.
+            Each one of us is powered everyday by encouraging others to unlock their creative and entrepreneurial
+            potential. As community builders, we recognize that the most efficient way to maximize our potential is to
+            work together, in one collaborative living room.<br>
+
+            From there on out, our task was simple -- we set about partnering with the community and engineering a
+            community platform where local entrepreneurs can flourish in our beloved city of Budapest.</p><br>
+            <a name="manifesto"></a><h2>The Mosaik Manifesto:</h2><br>
+            <h1>WE BELIEVE IN THE POWER OF ENTREPRENEURS</h1>
+            <p>The unreasonable ones. The ones who solve our problems, create our jobs, and push the world forward.</p><br>
+            <h1>WE BELIEVE IN THE POWER OF BUDAPEST</h1><br>
+            <p>Budapest is on the rise. Fast. With a budding startup ecosystem, vibrant downtown scene and
+              affordable lifestyle. It's like a magnet for young talent. Couple that with a convenient location
+              in the heart of Europe and you have the perfect place to launch and explore your dream project.</p><br>
+            <h1>WE BELIEVE IN THE POWER OF COMMUNITY</h1><br>
+            <p>At Mosaik we’re building a tribe of engineers, designers, creatives, and tech innovators. We’re
+              building this tribe to lead a movement. We’re leading a movement to change a city. And we’re changing
+              a city to improve the tech startup world, especially in Central Eastern Europe.</p><br>
+
+            <h1>And we want to have a great time along the way!</h1>
+            <a name="values"></a><h2>Values and Guiding Principles:</h2><br>
+            <p>Our members and visitors work and grow across a wide range of industries and products -- you’ll
+              find FinTech startups working next to the latest and greatest mobile app, and bumping elbows with world
+              class IT engineers making the next disruptive technology. So what binds us all together? Quite simply,
+              it’s the way we approach life. In times of both triumph or failure, we count on our community members to
+              respond with a mindset of positivity and growth.<br>
+              <span class="highlight">Check it out.</span><br>
+              <h3>LIFELONG LEARNING</h3>
+              <p>A fascination with the world. Realising that everything can be a learning opportunity,
+                if you choose it to be.</p><br>
+              <h3>COLLABORATION</h3>
+              <p>1 + 1 = 10. Working together to fill gaps and improve the community rather than duplicating efforts.</p><br>
+              <h3>OPENNESS</h3>
+              <p>Being an active listener. Always being prepared to share, adopt or challenge new ideas, thoughts, tools,
+                or people.</p><br>
+              <h3>INTENTION</h3>
+              <p>Crafting the life you want. Never settling. Why spend your life working on something you don't love?</p><br>
+              <h3>COMMUNITY</h3>
+              <p>The incredible things that can happen when people with energy, ambition and shared values come
+                together to create a future they believe in.</p><br>
+              <h3>POSITIVITY</h3>
+              <p>Recognizing that some failure is inevitable when trying something new, and when it comes, embracing
+                 it gracefully, to find the learnings in every experience and relationship.</p><br>
+              <h3>TECHNOLOGY</h3>
+              <p>Finding purposeful, constructive ways to use technology to shape our rapidly changing, increasingly
+                 interconnected world.</p><br>
+              <a href="questions"></a><h2>Questions?</h2><br>
+              <p>You’ve got questions, we’ve got answers!<br>
+                The best way to learn more about Mosaik is to ask one of our staff members, or better yet, get the
+                full low down from one of our awesome members! If you’ve got specific questions about membership,
+                upcoming events visit our reception area or catch one of our lovely team members at any point!</p>
+              <a href="who_are_we"></a><h2>Who are we?</h2><br>
+              <span class="blue">Csongor Bias</span> (<a href="mailto:">csongor@mosaik.space</a>) - CEO & Co-founder<br>
+              <span class="blue">Bence Litvanyi</span> (<a href="mailto:">zoli@mosaik.space</a>) - Operations Manager<br>
+              <span class="blue">Tamas Csonka</span> (<a href="mailto:">tamas@mosaik.space</a>) - Marketing Intern<br>
+              <span class="blue">Dorottya Vásárhelyi</span> (<a href="mailto:">dorka@mosaik.space</a>) - Community & Event Manager<br>
+              <span class="blue">Reka Forgach</span> (<a href="mailto:">reka@mosaik.space</a>) - Content Contributor<br><br>
+              <a href="respecting_mosaik"></a><h2>Respecting Mosaik<br>
+                Aka How to be a Responsible Community Member</h2><br><br>
+                <p>Being a member of Mosaik comes with the benefits of connecting, sharing ideas, information, support,
+                   and of course coworking in a motivational environment. In exchange, we expect our members to keep some
+                   things at the forefront of their minds in taking care of each other and our space:<br><br>
+                   → Your equipment & professional liability is your responsibility.<br>
+                   → Leave any space you use as you found it or better than you found it. <br>
+                   → Anyone who behaves in an manner that is destructive to the space or other participants may be asked
+                    to leave. This includes excessive noise or loud conversations in quiet workspaces, smelly food in the
+                     kitchen or fridge, and desks so cluttered that they affect your neighbors.<br>
+                   → Be responsible and respectful using our internet. Bittorrent and porn are absolutely not allowed.
+                   Large (1GB+) downloads or uploads during business hours aren't strictly prohibited...but it's rude to hog
+                   bandwidth.<br>
+                   → Respect others’ personal and business privacy, confidentiality, safety, property and data. If you're not
+                    sure, ask them.<br>
+                   → Please no smoking in the courtyard. The smoking area is located at the front entrance of Mosaik, where
+                   we kindly ask you to dispose of your cigarette in the ashtray.<br>
+                   → Respect the neighbors and the rest of the community when you’re in the front of the building. No large
+                   groups should congregate to drink/smoke outside. Noise levels outside should be kept to a minimum! Please
+                   do not leave any trash in front of the building. <br><br>
+
+                   <span class="fine_print">This bit of text was borrowed and modified from our friends at <a href="www.indyhall.org">
+                     IndyHall</a> in Philadelphia, PA.</span>
+                <a href="respecting_each_other"></a><h2>Respecting Each Other<br>
+                  Aka How To Be A Most Excellent Community Member</h2><br><br>
+                  Being a great member of the Mosaik community happens a bit differently than in some other settings. It's more organic,
+                   and less mechanical. We’re a coworking space, not just another networking event. This also means that often, it takes
+                    time.<br>
+                  <span class="highlight">Trust</span> is a big deal for us at Mosaik, and it plays a big role in being a great community
+                   member.<br>
+                   <span class="blue">Here's an observation for consideration:</span><br>
+                   → In order to help, someone needs to be ready to accept that help.<br>
+                   → In order for people to be ready to accept help, they need to be able to be willing to be vulnerable enough to ask
+                   for help.<br>
+                   → Being vulnerable requires establishing trust in the source. People are drawn to trusted sources, not authoritative
+                   sources.<br>
+                   → The difference between establishing authority and trust, in our experience, is being able to show some vulnerability
+                   yourself.<br><br>
+                   <span class="fine_print">This bit of text was also borrowed and modified from our friends at <a href="wwww.indyhall.org">
+                     IndyHall</a> in Philadelphia, PA.</span><br>
+                    With this in mind, sometimes the best way to give help is to first establish trust, by receiving help rather than offering it.
+                     There are lots of ways to do that, of course, but the most effective ways tend to be small and personal rather than a blast
+                     to the entire community. Take it one relationship at a time!<br>
+              </div>
+
+  </body>
+</html>
